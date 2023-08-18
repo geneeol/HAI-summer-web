@@ -1,6 +1,3 @@
-# 2023-Summer-Project
-2023년 여름 방학 과제를 위한 repo 입니다.
-
 ## AI 웹 앱 개발 과제
 ### Streamlit과 AI API를 활용한 웹 애플리케이션 개발​
 - OpenAI, NAVER Cloud 등에서 제공하는 AI API 활용​
